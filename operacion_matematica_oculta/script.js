@@ -8,3 +8,6 @@ function solution(num1, num2) {
 }
 solution(5, 4)
 solution(21, 5)
+
+/* Se puede usar la funciom toString() 
+pero esto era mas simple*/
